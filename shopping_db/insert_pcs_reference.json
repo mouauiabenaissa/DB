@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "608dc02cf1106a7ee8ce4dee"
+  },
+  "ref": "2Y6B0EA",
+  "title": "PC PORTABLE HP GAMING PAVILION",
+  "description": "Processeur: AMD Ryzen 5-4600H- Mémoire RAM: 8 Go ",
+  "prix": "2229",
+  "imageName": "pc2",
+  "handsetCols": "2",
+  "handsetRows": "1",
+  "webCols": "1",
+  "webRows": "1"
+},{
+  "_id": {
+    "$oid": "608dc02cf1106a7ee8ce4def"
+  },
+  "ref": "GF63-10SCXR-1089XFR",
+  "title": "PC PORTABLE GAMER MSI ",
+  "description": "Processeur: Intel Core i5-10300H - Mémoire RAM: 8GO",
+  "prix": "2399",
+  "imageName": "pc4",
+  "handsetCols": "2",
+  "handsetRows": "1",
+  "webCols": "1",
+  "webRows": "1"
+},{
+  "_id": {
+    "$oid": "608dc02cf1106a7ee8ce4df0"
+  },
+  "ref": "TUF505DT-BQ330T",
+  "title": "PC PORTABLE ASUS TUF GAMING",
+  "description": "Processeur: AMD RYZEN R5-3550H -  Mémoire RAM: 8 GO",
+  "prix": "2229",
+  "imageName": "pc1",
+  "handsetCols": "2",
+  "handsetRows": "1",
+  "webCols": "2",
+  "webRows": "1"
+},{
+  "_id": {
+    "$oid": "608dc02cf1106a7ee8ce4df1"
+  },
+  "ref": "81Y400UKFG",
+  "title": "PC PORTABLE LENOVO GAMING",
+  "description": "Processeur: Intel Core i5-1030H - Mémoire RAM: 8 GO",
+  "prix": "2379",
+  "imageName": "pc3",
+  "handsetCols": "2",
+  "handsetRows": "1",
+  "webCols": "1",
+  "webRows": "2"
+},{
+  "_id": {
+    "$oid": "60c5e3e9cc6e0d45dc0107d5"
+  },
+  "ref": "3500G3-I5",
+  "title": "PC PORTABLE GAMER DELL G3 3500",
+  "description": "Ecran 15.6\" Full HD - Processeur: Intel Core i5-10300H-Systéme d'exploitation: Free Dos-Mémoire RAM: 8 Go DDR4-Disque Dur:1To+256 Go SSD-Carte Graphique: Nvidia GeForce GTX 1650",
+  "prix": "2229",
+  "imageName": "pc5",
+  "handsetCols": "2",
+  "handsetRows": "1",
+  "webCols": "1",
+  "webRows": "2"
+},{
+  "_id": {
+    "$oid": "60c5e443cc6e0d45dc0107d6"
+  },
+  "ref": "81SX015BFG",
+  "title": "PC PORTABLE LENOVO LEGION Y540 I7 9È GÉN",
+  "description": "Ecran 15.6\" FHD IPS - Processeur: Intel Core i7-9750H -FreeDos - Mémoire RAM: 16 Go DDR4 - Disque dur: 2 To HDD + 256 Go SSD - Carte graphique: NVIDIA GeForce RTX 2060",
+  "prix": "2399",
+  "imageName": "pc6",
+  "handsetCols": "2",
+  "handsetRows": "1",
+  "webCols": "1",
+  "webRows": "2"
+}]
